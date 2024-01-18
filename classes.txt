@@ -1,0 +1,59 @@
+AMERICAN BULLDOG
+Afghan
+African Wild Dog
+Airedale
+Basset
+Beagle
+Bermaise
+Bichon Frise
+Blenheim
+Bloodhound
+Bluetick
+Border Collie
+Borzoi
+Boxer
+Bull Mastiff
+Bull Terrier
+Bulldog
+Cairn
+Chihuahua
+Chinese Crested
+Chow
+Clumber
+Cockapoo
+Cocker
+Collie
+Corgi
+Dalmation
+Dhole
+Dingo
+Doberman
+French Bulldog
+German Sheperd
+Golden Retriever
+Great Dane
+Greyhound
+Groenendael
+Irish Spaniel
+JACK RUSSELL TERRIER
+Japanese Spaniel
+KELPIE
+Komondor
+Labradoodle
+Labrador
+Lhasa
+Malinois
+Maltese
+Pekinese
+Pit Bull
+Pomeranian
+Poodle
+Pug
+Rhodesian
+Rottweiler
+STAFFORDSHIRE BULL TERRIER
+Schnauzer
+Scotch Terrier
+Shar_Pei
+Shih-Tzu
+Siberian Husky
